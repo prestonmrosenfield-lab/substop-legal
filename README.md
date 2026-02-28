@@ -1,2 +1,2 @@
-# substop-legal
-SubStop app legal documents - Privacy Policy and Ters of Service
+# atlasbudgeting-legal
+Atlas Budgeting app legal documents - Privacy Policy and Ters of Service
