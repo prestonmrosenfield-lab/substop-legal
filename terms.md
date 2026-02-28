@@ -1,6 +1,6 @@
 # Terms of Service
 
-**SubStop**
+**Atlas Budgeting**
 Last updated: February 25, 2026
 Effective date: February 25, 2026
 
@@ -8,15 +8,15 @@ Effective date: February 25, 2026
 
 ## 1. Agreement to Terms
 
-By downloading, installing, or using SubStop ("App," "Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using Atlas Budgeting ("App," "Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
-These Terms constitute a legally binding agreement between you and SubStop ("we," "our," or "us").
+These Terms constitute a legally binding agreement between you and Atlas Budgeting ("we," "our," or "us").
 
 ---
 
 ## 2. Description of Service
 
-SubStop is a personal subscription management application that helps you:
+Atlas Budgeting is a personal subscription management application that helps you:
 
 - Track and organize your recurring subscriptions and free trials
 - Detect subscriptions through optional Gmail and bank account connections (read-only)
@@ -28,13 +28,13 @@ SubStop is a personal subscription management application that helps you:
 
 ## 3. Eligibility
 
-You must be at least 13 years old to use SubStop. By using the App, you represent and warrant that you are at least 13 years of age. If you are under 18, you represent that a parent or legal guardian has reviewed and agreed to these Terms on your behalf.
+You must be at least 13 years old to use Atlas Budgeting. By using the App, you represent and warrant that you are at least 13 years of age. If you are under 18, you represent that a parent or legal guardian has reviewed and agreed to these Terms on your behalf.
 
 ---
 
 ## 4. Account Registration
 
-- You must create an account to use SubStop.
+- You must create an account to use Atlas Budgeting.
 - You are responsible for maintaining the confidentiality of your account credentials.
 - You are responsible for all activity that occurs under your account.
 - You agree to provide accurate, current, and complete information and to keep it updated.
@@ -61,15 +61,15 @@ You agree NOT to:
 
 ### 6.1 Gmail (Google)
 
-SubStop may request read-only access to your Gmail account to detect subscription-related emails. By connecting your Gmail account, you authorize SubStop to access emails from known subscription senders only. This access is governed by Google's Terms of Service and Privacy Policy. You can revoke access at any time at [myaccount.google.com/permissions](https://myaccount.google.com/permissions).
+Atlas Budgeting may request read-only access to your Gmail account to detect subscription-related emails. By connecting your Gmail account, you authorize Atlas Budgeting to access emails from known subscription senders only. This access is governed by Google's Terms of Service and Privacy Policy. You can revoke access at any time at [myaccount.google.com/permissions](https://myaccount.google.com/permissions).
 
 ### 6.2 Plaid (Bank Connection)
 
-SubStop uses Plaid to provide bank account linking functionality. By connecting your bank account, you agree to Plaid's End User Privacy Policy ([plaid.com/legal/end-user-privacy-policy](https://plaid.com/legal/end-user-privacy-policy)) and Terms of Use. SubStop receives only read-only transaction data — we cannot initiate transfers or access your full account credentials.
+Atlas Budgeting uses Plaid to provide bank account linking functionality. By connecting your bank account, you agree to Plaid's End User Privacy Policy ([plaid.com/legal/end-user-privacy-policy](https://plaid.com/legal/end-user-privacy-policy)) and Terms of Use. Atlas Budgeting receives only read-only transaction data — we cannot initiate transfers or access your full account credentials.
 
 ### 6.3 App Store / Google Play
 
-In-app purchases are processed by Apple (App Store) or Google (Google Play). Their respective Terms of Service and refund policies apply. SubStop has no control over purchase processing or refunds handled by these platforms.
+In-app purchases are processed by Apple (App Store) or Google (Google Play). Their respective Terms of Service and refund policies apply. Atlas Budgeting has no control over purchase processing or refunds handled by these platforms.
 
 ---
 
@@ -77,7 +77,7 @@ In-app purchases are processed by Apple (App Store) or Google (Google Play). The
 
 ### 7.1 Free vs. Premium
 
-SubStop offers free and premium tiers. Free accounts have access to basic subscription tracking. Premium features (Smart Recommendations, Weekly Digest, Advanced Analytics, Export) require an active SubStop Premium subscription.
+Atlas Budgeting offers free and premium tiers. Free accounts have access to basic subscription tracking. Premium features (Smart Recommendations, Weekly Digest, Advanced Analytics, Export) require an active Atlas Budgeting Premium subscription.
 
 ### 7.2 Payment
 
@@ -99,7 +99,7 @@ We may change our subscription prices with reasonable notice. If you do not agre
 
 ## 8. Intellectual Property
 
-All content, features, and functionality of the App — including but not limited to text, graphics, logos, icons, and software — are owned by SubStop and are protected by copyright, trademark, and other intellectual property laws.
+All content, features, and functionality of the App — including but not limited to text, graphics, logos, icons, and software — are owned by Atlas Budgeting and are protected by copyright, trademark, and other intellectual property laws.
 
 You are granted a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes.
 
@@ -107,9 +107,9 @@ You are granted a limited, non-exclusive, non-transferable, revocable license to
 
 ## 9. Financial Information Disclaimer
 
-SubStop provides subscription tracking and spending analysis tools for informational purposes only. The App is **not** a financial advisor and does **not** provide financial, investment, tax, or legal advice. Any recommendations made by the App (e.g., "switch to annual billing," "cancel unused subscriptions") are suggestions based on your data and should not be relied upon as professional financial guidance.
+Atlas Budgeting provides subscription tracking and spending analysis tools for informational purposes only. The App is **not** a financial advisor and does **not** provide financial, investment, tax, or legal advice. Any recommendations made by the App (e.g., "switch to annual billing," "cancel unused subscriptions") are suggestions based on your data and should not be relied upon as professional financial guidance.
 
-Always verify subscription details (amounts, billing dates) directly with your service providers. SubStop is not responsible for inaccuracies in data sourced from third-party connections.
+Always verify subscription details (amounts, billing dates) directly with your service providers. Atlas Budgeting is not responsible for inaccuracies in data sourced from third-party connections.
 
 ---
 
@@ -136,7 +136,7 @@ Some jurisdictions do not allow certain limitations of liability. In such jurisd
 
 ## 12. Indemnification
 
-You agree to indemnify and hold harmless SubStop and its officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in connection with your use of the App or violation of these Terms.
+You agree to indemnify and hold harmless Atlas Budgeting and its officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in connection with your use of the App or violation of these Terms.
 
 ---
 
@@ -168,9 +168,9 @@ We may update these Terms at any time. We will notify you of material changes by
 
 If you have questions about these Terms, please contact us:
 
-**SubStop**
-Email: support@usesubstop.com
-Website: https://usesubstop.com
+**Atlas Budgeting**
+Email: support@atlasbudgeting.app
+Website: https://atlasbudgeting.app
 
 ---
 
