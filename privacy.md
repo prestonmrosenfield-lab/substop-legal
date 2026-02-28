@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**SubStop**
+**Atlas Budgeting**
 Last updated: February 25, 2026
 Effective date: February 25, 2026
 
@@ -8,7 +8,7 @@ Effective date: February 25, 2026
 
 ## 1. Introduction
 
-SubStop ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the SubStop mobile application and related services (collectively, the "App").
+Atlas Budgeting ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Atlas Budgeting mobile application and related services (collectively, the "App").
 
 Please read this policy carefully. If you disagree with its terms, please discontinue use of the App.
 
@@ -80,7 +80,7 @@ We do not share, sell, rent, or trade your personal information with third parti
 
 ## 6. Children's Privacy
 
-SubStop is not directed to children under 13 years of age. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected information from a child under 13, please contact us immediately at the address below.
+Atlas Budgeting is not directed to children under 13 years of age. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected information from a child under 13, please contact us immediately at the address below.
 
 ---
 
@@ -105,7 +105,7 @@ We retain your data for as long as your account exists. Upon account deletion:
 
 ## 9. International Data Transfers
 
-SubStop is operated from the United States. If you are located outside the United States, your information may be transferred to and processed in the United States. We take appropriate safeguards to ensure your data is handled in accordance with this Privacy Policy.
+Atlas Budgeting is operated from the United States. If you are located outside the United States, your information may be transferred to and processed in the United States. We take appropriate safeguards to ensure your data is handled in accordance with this Privacy Policy.
 
 ---
 
@@ -119,9 +119,9 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 If you have questions about this Privacy Policy or wish to exercise your rights, please contact us:
 
-**SubStop**
-Email: support@usesubstop.com
-Website: https://usesubstop.com
+**Atlas Budgeting**
+Email: support@atlasbudgeting.app
+Website: https://atlasbudgeting.app
 
 ---
 
